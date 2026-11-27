@@ -1,1 +1,1 @@
-![Table img](https://github.com/binay09-ux/web-tech--I/issues/1#issue-6640524746)
+![Table img](Table.png)
